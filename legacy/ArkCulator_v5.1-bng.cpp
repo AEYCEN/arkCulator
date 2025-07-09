@@ -27,7 +27,7 @@ const string ANSI_PURPLE = "\033[35m";
 const string ANSI_CYAN = "\033[36m";
 const string ANSI_YELLOW = "\033[33m";
 
-const string programInfo = "\033[3m\033[1m\033[33mArk\033[32mCulator\033[0m\033[0m v5.1-bng | © 2023-2025 TRAYVED/AEYCEN | MIT License";
+const string programInfo = "\033[3m\033[1m\033[33mArk\033[32mCulator\033[0m\033[0m v5.1-bng | © 2022-2025 TRAYVED/AEYCEN | MIT License";
 
 enum class Material
 {
