@@ -5,16 +5,16 @@ using namespace std;
 
 /*
 ===============================================================================
-File: 		    ArkCulator_v5.1.cpp
-Author: 	    TRAYVED [Discord: trayved] / AEYCEN [Discord: aeycen]
-Update date: 	09. July 2025
-Version: 	    5.1
-Description: 	This calculator is used to calculate the cost and resources 
-		        required to destroy structures in Ark: Survival Evolved. 
-	         	The program allows you to enter the type of weapon, the HP and 
-	         	material of the structure and the presence of 6x cave damage.
-	         	It then calculates the amount of explosives needed and displays
-	         	the resource cost of crafting the ammo.
+File:           ArkCulator_v5.1.cpp
+Author:         TRAYVED [Discord: trayved] / AEYCEN [Discord: aeycen]
+Update date:    09. July 2025
+Version:        5.1
+Description:    This calculator is used to calculate the cost and resources
+                required to destroy structures in Ark: Survival Evolved.
+                The program allows you to enter the type of weapon, the HP and
+                material of the structure and the presence of 6x cave damage.
+                It then calculates the amount of explosives needed and displays
+                the resource cost of crafting the ammo.
 ===============================================================================
 */
 
