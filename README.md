@@ -1,5 +1,5 @@
 # ArkCulator
-`© 2022-2024 by AEYCEN / TRAYVED | v6.0-alpha (~.03.2024)`
+`© 2022-2025 by AEYCEN / TRAYVED | v5.1`
 
 ---
 
@@ -11,19 +11,20 @@ It then calculates the amount of explosives needed and displays the resource cos
 
 ### 📑 Changelog
 
-    v6.0-alpha - migrated functionality to a web service
-               - added multi-language support
+    v5.1    - added input validations
+            - bug fixes
+            - added bng (Beginners Next Gen) version
 
-    v5.0       - added text coloration and display of user input history
-               - user input process simplified
+    v5.0    - added text coloration and display of user input history
+            - user input process simplified
 
-    v4.1       - added branding and description
+    v4.1    - added branding and description
 
-    v4.0       - code cleanup
-               - code efficiency increased
+    v4.0    - code cleanup
+            - code efficiency increased
 
-    v3.0       - changed user input process
+    v3.0    - changed user input process
 
-    v2.0       - added new weapon types: cannon, grenade and catapult 
+    v2.0    - added new weapon types: cannon, grenade and catapult 
 
-    v1.0       - initial release as a c++ console application
+    v1.0    - initial release as a c++ console application
