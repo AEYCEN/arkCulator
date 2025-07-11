@@ -1,12 +1,7 @@
 <p align="center">
     <picture>
-        <source
-          width="190px"
-          media="(prefers-color-scheme: dark)"
-        >
-        <img 
-          src="img/ArkCulator.png"
-        >
+        <source media="(prefers-color-scheme: dark)">
+        <img src="img/ArkCulator.png" width="60%">
     </picture>
     <br>
     <br>
